@@ -1,5 +1,7 @@
 Rencana Back-end website Protofolio
 - Penambahan fitur admin
+  ^ Menggunakan framework laravel
 - Penambahan fitur account pengunjung
 - Penambahan fitur animasi
+  ^ Membuat animasi jam
 - Penambahan fitur status pengunjung ke admin

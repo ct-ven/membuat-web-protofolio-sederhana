@@ -1,5 +1,7 @@
 Rencana Back-end website Protofolio
 - Penambahan fitur admin
+  ^ Menggunakan framework React Express
 - Penambahan fitur account pengunjung
 - Penambahan fitur animasi
 - Penambahan fitur status pengunjung ke admin
+- Penambahan fitur live untuk pengunjung

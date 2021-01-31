@@ -1,4 +1,3 @@
 Yang akan dibuat pada web protofolio sederhana (front-end) :
 - animasi gambar, text
-- tombol button yang menarik
 - membuat web menjadi responsive
